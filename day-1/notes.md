@@ -2,6 +2,7 @@
 ## Two Hashs are Medium Header
 ### Three Hashs are Smalll Header
 
+<<<<<<< HEAD
 **Two Asterix Makes Text Bold**
 _One Underscore Makes Text Italic_
 
@@ -34,3 +35,5 @@ Left|Right|Center
 ---|---|---
 red|green|blue
 circle|square|triangle
+=======
+>>>>>>> 7d50d2f58c8bf9cba712533296593c698c29a7ef
